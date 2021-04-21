@@ -1,0 +1,31 @@
+
+#Top {
+    Padding:20px;
+    background-color:   rgba(255, 255, 255, 0.5);
+    width: 50%;
+    margin: auto;
+}
+#content {
+    background-color:   rgba(158, 158, 158, 0.233);
+    min-height: 750px;
+    float:none ;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+body { 
+    background-repeat:  no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+h3{
+    color: rgb(0, 0, 148);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:visited {
+    color: rgb(0, 0, 148);
+}
+a:hover {
+    color:blue;
+}
